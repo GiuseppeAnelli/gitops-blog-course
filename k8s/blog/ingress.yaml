@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: GiuseppeAnelli.blog.local
+  - host: demo.blog.local
     http:
       paths:
       - path: /
